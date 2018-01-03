@@ -5,7 +5,6 @@
  * 23 January 2016
  * Culminating Activity
  * Game : Match' Em
- * Ms. Mackenzie
  * Game Introduction:
  * The player will have to match up all the cards. The cards will be briefly revealed for 6 seconds. After the 6 seconds are up the player will have
  * to match the cards up.
