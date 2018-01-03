@@ -14,3 +14,5 @@ Try to memorize the location of each pair of cards. You will have a couple secon
 The cards will be flipped and hidden.
 Match all the cards with their identical twin pair.
 When you are done you will be presented with your score. The lower the score the better.
+
+Download the .jar file to play the game. Requires Java.
